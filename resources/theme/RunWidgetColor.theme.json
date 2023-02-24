@@ -1,0 +1,18 @@
+{
+  "name": "RunWidgetColor",
+  "author": "JetBrains support team",
+  "dark": false,
+  "colors": {
+    "Blue": "#4069CF",
+    "RED": "#FF0000",
+    "HoverBlue": "#3A5EBB",
+    "Green": "#6A9C63"
+  },
+  "ui": {
+    "RunWidget.background": "RED",
+    "RunWidget.hoverBackground": "HoverBlue",
+    "RunWidget.disabledForeground": "Blue",
+    "RunWidget.pressedBackground": "Green"
+
+  }
+}

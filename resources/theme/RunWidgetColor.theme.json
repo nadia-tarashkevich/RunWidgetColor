@@ -4,15 +4,14 @@
   "dark": false,
   "colors": {
     "Blue": "#4069CF",
-    "RED": "#FF0000",
+    "Black": "#000000",
     "HoverBlue": "#3A5EBB",
     "Green": "#6A9C63"
   },
   "ui": {
-    "RunWidget.background": "RED",
+    "RunWidget.background": "Blue",
     "RunWidget.hoverBackground": "HoverBlue",
-    "RunWidget.disabledForeground": "Blue",
-    "RunWidget.pressedBackground": "Green"
-
+    "RunWidget.pressedBackground": "Green",
+    "RunWidget.foreground": "Black"
   }
 }
